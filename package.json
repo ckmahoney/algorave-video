@@ -1,0 +1,23 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "the video can be fetched by  ``` GET https://raw.githubusercontent.com/ckmahoney/algorave-video/main/algorave-futures-lab.mp4 ```",
+  "main": "sequence-layers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckmahoney/algorave-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckmahoney/algorave-video/issues"
+  },
+  "homepage": "https://github.com/ckmahoney/algorave-video#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
